@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TusharChoudhury--29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharChoudhury-29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Choudhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-choudhury-a44a05259/)
 [![Email](https://img.shields.io/badge/Email-tusharchoudhury29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharchoudhury29@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://tusharchoudhury-portfolio.lovable.app)
 
 <br/>
 
@@ -44,7 +44,7 @@
 ```python
 tushar = {
     "role"       : "Aspiring Data Scientist | Junior Analyst",
-    "education"  : ["B.Tech ECE — VIT (2025)", "PG Program Data Science — Great Learning (Ongoing)"],
+    "education"  : ["B.Tech ECE — VIT (2025)", "PG Program Data Science — Great Learning (2026)"],
     "location"   : "Hyderabad, India  🇮🇳",
     "building"   : ["End-to-end ML Pipelines", "Business Analytics Dashboards", "Portfolio Projects"],
     "learning"   : ["Cloud Platforms (AWS/GCP)", "MLOps Fundamentals", "LLM & Prompt Engineering"],

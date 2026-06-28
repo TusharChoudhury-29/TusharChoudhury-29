@@ -131,7 +131,7 @@ tushar = {
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+
 
 </div>
 
@@ -141,7 +141,7 @@ tushar = {
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
 [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+
 
 </div>
 
